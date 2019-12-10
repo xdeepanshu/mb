@@ -1,0 +1,7 @@
+Django>=2.2,<2.3
+wagtail>=2.7,<2.8
+django-rest-auth
+djangorestframework-jwt
+djangorestframework<4.0,>=3.7.4
+django-allauth #For google and facebook login 
+djoser   #For CRUD Operations on User Model https://djoser.readthedocs.io/
